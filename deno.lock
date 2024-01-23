@@ -1,0 +1,18 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/x/webui/mod.ts": "https://deno.land/x/webui@2.4.4/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/webui@2.4.4/deps.ts": "265ee64b6f22e2af50aa32af81fbc3445194a4b230bc3e30b6ffb55b32e80259",
+    "https://deno.land/x/webui@2.4.4/mod.ts": "3f45bc39f6bff7da9282f3343f473d52686ece5748744b01f615c238e9f91fd8",
+    "https://deno.land/x/webui@2.4.4/src/lib.ts": "c514906e484fcf105298f633134587157eb78f8d376e79f3e3860c9c64be5d09",
+    "https://deno.land/x/webui@2.4.4/src/types.ts": "64e42a0e8f142557034eff6e54cb596954823ef9127ffec6fffb856880b21897",
+    "https://deno.land/x/webui@2.4.4/src/utils.ts": "1f486e61ddc0ff07dd1807ccd71b458c10f89a8156d04a870f121bd875246508",
+    "https://deno.land/x/webui@2.4.4/src/webui.ts": "accf92a0b9b7e80d81c9a0d52f9f6d2a2ae30f09feb5dc78cbc3cad2c731cb54",
+    "https://esm.sh/react-dom@18.2.0/server": "a356014fe905a58b1da74149b1981d714a06338ce52f81cc07afc0946747ed76",
+    "https://esm.sh/react@18.2.0": "8950a34a030620fce8349d6bd3913b3bdb186c5ec7968fa5ba4d054e22d78e6c",
+    "https://esm.sh/stable/react@18.2.0/denonext/react.mjs": "3c4f23bcfc53b256fcfaf6f834fa9f584c3bb7be667b2682c6cb6ba8ef88f8e6",
+    "https://esm.sh/v130/react-dom@18.2.0/denonext/server.js": "0460557cf83e61c275692fc0b9b22837cad662db116c048e354eac3109f8b326"
+  }
+}
